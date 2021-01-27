@@ -1,6 +1,6 @@
 Versão do Node usado neste projeto: v15.5.1
 
-Necessario: Git, Node e NPM
+Necessario: Git, Node, NPM e YARN
 
 ```
 // Faca download do repositorio na sua maquina
