@@ -3,9 +3,8 @@ Versão do Node usado neste projeto: v15.5.1
 Necessario: Git, Node e NPM
 
 ```
-
 // Faca download do repositorio na sua maquina
-git clone https://github.com/shumtz/starwarscalculator.git.
+git clone https://github.com/shumtz/starwarscalculator.git
 
 // Acesse o repositorio e instale os pacotes
 yarn install
